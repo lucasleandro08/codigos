@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+main(){
 int INDICE = 13;
 int SOMA = 0;
 int K = 0;
@@ -11,3 +12,4 @@ while (K < INDICE) {
 
 printf("%d", SOMA);
 //valor final de K será 91
+}
